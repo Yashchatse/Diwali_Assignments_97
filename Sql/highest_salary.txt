@@ -1,0 +1,26 @@
+
+mysql> SELECT e1.empno, e1.ename, e1.sal, e1.deptno FROM emp e1 WHERE (SELECT COUNT(*) FROM emp e2 WHERE e2.deptno = e1.deptno AND e2.sal > e1.sal < 5 ORDER BY e1.deptno, e1.sal DESC;
++-------+----------+------+--------+
+| empno | ename    | sal  | deptno |
++-------+----------+------+--------+
+|  7839 | KING     | 5000 |     10 |
+|  7415 | AARAV    | 3350 |     10 |
+|  7782 | CLARK    | 2450 |     10 |
+|  7421 | THOMAS   | 1750 |     10 |
+|  7934 | MILLER   | 1300 |     10 |
+|  7840 | FRED     | 5000 |     20 |
+|  7902 | FORD     | 3000 |     20 |
+|  7788 | SCOTT    | 3000 |     20 |
+|  7566 | JONES    | 2975 |     20 |
+|  6781 | BANDISH  | 1750 |     20 |
+|  6473 | SHARMIN  | 1750 |     20 |
+|  7919 | HOFFMAN  | 4150 |     30 |
+|  7698 | BLAKE    | 2850 |     30 |
+|  7920 | GRASS    | 2575 |     30 |
+|  8433 | NATASHA  | 1750 |     30 |
+|  6001 | GITA     | 1750 |     30 |
+|  6129 | VRUSHALI | 1750 |     50 |
+|  9400 | SANGITA  | 1750 |     50 |
+|  9473 | SUPRIYA  | 1750 |     50 |
++-------+----------+------+--------+
+19 rows in set (0.02 sec)
