@@ -1,0 +1,8 @@
+C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms DOTNet\LinqPr_day5\bin\Debug\LinqPr_day5.exe.config
+C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms DOTNet\LinqPr_day5\bin\Debug\LinqPr_day5.exe
+C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms DOTNet\LinqPr_day5\bin\Debug\LinqPr_day5.pdb
+C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms DOTNet\LinqPr_day5\obj\Debug\LinqPr_day5.csproj.AssemblyReference.cache
+C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms DOTNet\LinqPr_day5\obj\Debug\LinqPr_day5.csproj.CoreCompileInputs.cache
+C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms DOTNet\LinqPr_day5\obj\Debug\LinqPr_day5.exe
+C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms DOTNet\LinqPr_day5\obj\Debug\LinqPr_day5.pdb
+C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms DOTNet\LinqPr_day5\obj\Debug\LinqPr_day5.exe.config
