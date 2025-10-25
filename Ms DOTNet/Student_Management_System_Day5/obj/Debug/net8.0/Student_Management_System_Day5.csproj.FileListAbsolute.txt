@@ -253,4 +253,3 @@ C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms D
 C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms DOTNet\Student_Management_System_Day5\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms DOTNet\Student_Management_System_Day5\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms DOTNet\Student_Management_System_Day5\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
-C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms DOTNet\Student_Management_System_Day5\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

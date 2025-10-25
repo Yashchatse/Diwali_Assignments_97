@@ -5,3 +5,4 @@ C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms D
 C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms DOTNet\Array_List_day5\obj\Debug\Array_List_day5.csproj.CoreCompileInputs.cache
 C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms DOTNet\Array_List_day5\obj\Debug\Array_List_day5.exe
 C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms DOTNet\Array_List_day5\obj\Debug\Array_List_day5.pdb
+C:\Users\ygfch\OneDrive\Desktop\IET\Diwali_Assaigment\Diwali_Assignments_97\Ms DOTNet\Array_List_day5\obj\Debug\Array_List_day5.exe.config
